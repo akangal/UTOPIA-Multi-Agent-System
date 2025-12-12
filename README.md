@@ -26,4 +26,4 @@ In conclusion, this research underscores the importance of integrating diverse s
 ## 📂 Repository Structure
 * `/simulation`: Gazebo world files and launch scripts.
 * `/algorithms`: Python/C++ implementations of the EKF and coordination logic.
-* `/docs`: System architecture diagrams and thesis summary.
+* `/docs`: System architecture diagrams and thesis summary, published papers.
